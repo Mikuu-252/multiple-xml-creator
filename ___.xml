@@ -1,0 +1,1484 @@
+<deck name="Japoński-Słownictwo">
+  <fields>
+    <japanese name='Japanese' sides='11' furiganaMode='hint'></japanese>
+    <text name='Meaning' sides='01' lang='pl-PL'>
+      <sources>
+        <translation>
+          <ref name="Japanese" />
+        </translation>
+      </sources>
+    </text>
+  </fields>
+  <cards>
+    <card>
+      <field name='Japanese'>
+        <japanese>きいてください</japanese>
+      </field>
+      <field name='Meaning'>KIITEKUDASAI Proszę słuchajcie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>わかりません</japanese>
+      </field>
+      <field name='Meaning'>WAKARIMASU Nie rozumiem.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いってください</japanese>
+      </field>
+      <field name='Meaning'>ITTEKUDASAI Proszę powiedzcie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>みてください</japanese>
+      </field>
+      <field name='Meaning'>MITEKUDASAI Proszę popatrzcie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>よんでください</japanese>
+      </field>
+      <field name='Meaning'>YONDEKUDASAI Proszę czytajcie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かいてください</japanese>
+      </field>
+      <field name='Meaning'>KAITEKUDASAI Proszę napiszcie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ゆっくり いってください</japanese>
+      </field>
+      <field name='Meaning'>YUKKURI ITTEKUDASAI Proszę powiedzieć powoli.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おぼえてください</japanese>
+      </field>
+      <field name='Meaning'>OBOETEKUDASAI Proszę zapamiętajcie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>むずかしいです</japanese>
+      </field>
+      <field name='Meaning'>MUZUKASHIIDESU Trudne.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>もういちど</japanese>
+      </field>
+      <field name='Meaning'>MOUICHIDO Jeszcze raz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かんたんです</japanese>
+      </field>
+      <field name='Meaning'>KANTANDESU Łatwe.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しゅくだい</japanese>
+      </field>
+      <field name='Meaning'>SHUKUDAI Praca domowa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>～は なんですか</japanese>
+      </field>
+      <field name='Meaning'>～WA NANDESUKA? Co znaczy ……? Co to ……?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いいですね</japanese>
+      </field>
+      <field name='Meaning'>IIDESUNE Dobrze / ok</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>～は にほんごで なんですか</japanese>
+      </field>
+      <field name='Meaning'>～WA NIHONGO DE NANDESUKA? Jak się mówi…po japońsku?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>わかりますか</japanese>
+      </field>
+      <field name='Meaning'>WAKARIMASUKA? Rozumiecie?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しつもんはありますか</japanese>
+      </field>
+      <field name='Meaning'>SHITSUMON wa ARIMASUKA? Czy są/macie pytania?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>どうしてですか</japanese>
+      </field>
+      <field name='Meaning'>DOUSHITEDESUKA? Dlaczego?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>だいじょうぶですか</japanese>
+      </field>
+      <field name='Meaning'>DAIJOUBUDESUKA? W porządku?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>れんしゅうします</japanese>
+      </field>
+      <field name='Meaning'>RENSHUUSHIMASU Ćwiczymy.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ふくしゅうします</japanese>
+      </field>
+      <field name='Meaning'>FUKUSHUUSHIMASU Robimy powtórkę.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おはようございます。</japanese>
+      </field>
+      <field name='Meaning'>OHAYOU GOZAIMASU Dzień dobry. (rano)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>こんにちは。</japanese>
+      </field>
+      <field name='Meaning'>KONNICHIWA Dzień dobry (w ciągu dnia)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>こんばんは。</japanese>
+      </field>
+      <field name='Meaning'>KONBANWA Dobry wieczór.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さようなら。</japanese>
+      </field>
+      <field name='Meaning'>SAYOUNARA Do widzenia.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おやすみなさい。</japanese>
+      </field>
+      <field name='Meaning'>OYASUMINASAI Dobra noc. (kiedy idziemy spać)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>どうぞ。</japanese>
+      </field>
+      <field name='Meaning'>DOUZO Proszę.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ありがとうございます。</japanese>
+      </field>
+      <field name='Meaning'>ARIGATOUGOZAIMASU Dziękuję.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>どういたしまして。</japanese>
+      </field>
+      <field name='Meaning'>DOUITASHIMASHITE Proszę bardzo.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>すみません。</japanese>
+      </field>
+      <field name='Meaning'>SUMIMASEN Przepraszam.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ごめんなさい。</japanese>
+      </field>
+      <field name='Meaning'>GOMENNASAI Przepraszam. *bardziej potoczne</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はい</japanese>
+      </field>
+      <field name='Meaning'>HAI Tak</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いいえ</japanese>
+      </field>
+      <field name='Meaning'>IIE Nie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いただきます。</japanese>
+      </field>
+      <field name='Meaning'>ITADAKIMASU (przed posiłkiem)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ごちそうさまでした。</japanese>
+      </field>
+      <field name='Meaning'>GOCHISOUSAMA DESHITA Dziękuję za jedzenie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>～はいかがですか。</japanese>
+      </field>
+      <field name='Meaning'>～WA IKAGA DESUKA? Co Ty na to....?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>けっこうです。</japanese>
+      </field>
+      <field name='Meaning'>KEKKOUDESU Nie, dziękuję / Wystarczy.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かんぱい！</japanese>
+      </field>
+      <field name='Meaning'>KANPAI! Na zdrowie!</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いってきます。</japanese>
+      </field>
+      <field name='Meaning'>ITTEKIMASU Wychodzę (z domu i wrócę).</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いってらっしゃい。</japanese>
+      </field>
+      <field name='Meaning'>ITTERASSHAI Uważaj na siebie.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ただいま。</japanese>
+      </field>
+      <field name='Meaning'>TADAIMA Już jestem. (Wróciłem do domu z zewnątrz.)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おかえりなさい。</japanese>
+      </field>
+      <field name='Meaning'>OKAERINASAI Witaj z powrotem.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おげんきですか。</japanese>
+      </field>
+      <field name='Meaning'>OGENKI DESUKA? Jak się pan/pani czuje?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はじめまして。</japanese>
+      </field>
+      <field name='Meaning'>HAJIMEMASHITE Bardzo mi miło cie poznac.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>げんきです。</japanese>
+      </field>
+      <field name='Meaning'>GENKI DESU Dobrze się czuje.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>まあまあです。</japanese>
+      </field>
+      <field name='Meaning'>MAAMAA DESU Tak sobie się czuje.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>げんきではありません。</japanese>
+      </field>
+      <field name='Meaning'>GENKI DEWA ARIMASEN Źle się czuje.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おつかれさまでした。</japanese>
+      </field>
+      <field name='Meaning'>OTSUKARESAMA DESHITA Dobra robota.</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>わたし</japanese>
+      </field>
+      <field name='Meaning'>WATASHI ja</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>わたしたち / わたしら</japanese>
+      </field>
+      <field name='Meaning'>WATASHITACHI / WATASHIRA my</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あなた</japanese>
+      </field>
+      <field name='Meaning'>ANATA ty</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あなたたち / あなたら</japanese>
+      </field>
+      <field name='Meaning'>ANATATACHI / ANATARA wy</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かれ</japanese>
+      </field>
+      <field name='Meaning'>KARE on</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かれたち / かれら</japanese>
+      </field>
+      <field name='Meaning'>KARETACHI / KARERA oni</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かのじょ</japanese>
+      </field>
+      <field name='Meaning'>KANOJO ona</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かのじょたち / かのじょら</japanese>
+      </field>
+      <field name='Meaning'>KANOJOTACHI / KANOJORA one</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はし</japanese>
+      </field>
+      <field name='Meaning'>HASHI pałeczki / most</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はな</japanese>
+      </field>
+      <field name='Meaning'>HANA kwiat / nos</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ひと</japanese>
+      </field>
+      <field name='Meaning'>HITO człowiek / osoba</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ひこうき</japanese>
+      </field>
+      <field name='Meaning'>HIKŌKI samolot</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ふね</japanese>
+      </field>
+      <field name='Meaning'>FUNE statek</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さいふ</japanese>
+      </field>
+      <field name='Meaning'>SAIFU portfel</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ほし</japanese>
+      </field>
+      <field name='Meaning'>HOSHI gwiazda</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さら</japanese>
+      </field>
+      <field name='Meaning'>SARA talerz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いくら</japanese>
+      </field>
+      <field name='Meaning'>IKURA Ile kosztuje?</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>くすり</japanese>
+      </field>
+      <field name='Meaning'>KUSURI lekarstwo</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>くるま</japanese>
+      </field>
+      <field name='Meaning'>KURUMA samochód</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>よる</japanese>
+      </field>
+      <field name='Meaning'>YORU noc</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>れいぞうこ</japanese>
+      </field>
+      <field name='Meaning'>REIZŌKO lodówka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いろ</japanese>
+      </field>
+      <field name='Meaning'>IRO kolor</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>くろ</japanese>
+      </field>
+      <field name='Meaning'>KURO czarny</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>白 | しろ</japanese>
+      </field>
+      <field name='Meaning'>SHIRO biały</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>なつ</japanese>
+      </field>
+      <field name='Meaning'>NATSU lato</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さかな</japanese>
+      </field>
+      <field name='Meaning'>SAKANA ryba</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おとな</japanese>
+      </field>
+      <field name='Meaning'>OTONA dorosły</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>にく</japanese>
+      </field>
+      <field name='Meaning'>NIKU mięso</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いぬ</japanese>
+      </field>
+      <field name='Meaning'>INU pies</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ねこ</japanese>
+      </field>
+      <field name='Meaning'>NEKO kot</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おかね</japanese>
+      </field>
+      <field name='Meaning'>OKANE pieniądze</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>きのこ</japanese>
+      </field>
+      <field name='Meaning'>KINOKO grzyb</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あさ</japanese>
+      </field>
+      <field name='Meaning'>ASA rano</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かさ</japanese>
+      </field>
+      <field name='Meaning'>KASA parasol</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あし</japanese>
+      </field>
+      <field name='Meaning'>ASHI noga/nogi</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>うし</japanese>
+      </field>
+      <field name='Meaning'>USHI krowa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>すし</japanese>
+      </field>
+      <field name='Meaning'>SUSHI sushi</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しお</japanese>
+      </field>
+      <field name='Meaning'>SHIO sól</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いす</japanese>
+      </field>
+      <field name='Meaning'>ISU krzesło</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>せかい</japanese>
+      </field>
+      <field name='Meaning'>SEKAI świat</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>うそ</japanese>
+      </field>
+      <field name='Meaning'>USO kłamstwo</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あい</japanese>
+      </field>
+      <field name='Meaning'>AI miłość</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いい</japanese>
+      </field>
+      <field name='Meaning'>II dobrze</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>え</japanese>
+      </field>
+      <field name='Meaning'>E obraz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いえ</japanese>
+      </field>
+      <field name='Meaning'>IE dom</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いいえ</japanese>
+      </field>
+      <field name='Meaning'>IIE nie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>うえ</japanese>
+      </field>
+      <field name='Meaning'>UE u góry</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あお</japanese>
+      </field>
+      <field name='Meaning'>AO niebieski</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>コック / りょうりにん</japanese>
+      </field>
+      <field name='Meaning'>kokku / ryourinin kucharz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ジャーナリスト  / きしゃ</japanese>
+      </field>
+      <field name='Meaning'>jaanarisuto / kisha dziennikarz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ウェイター</japanese>
+      </field>
+      <field name='Meaning'>weitaa kelner</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ウェイトレス</japanese>
+      </field>
+      <field name='Meaning'>weitoresu kelnerka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>カメラマン</japanese>
+      </field>
+      <field name='Meaning'>kameraman fotograf</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>エンジニア</japanese>
+      </field>
+      <field name='Meaning'>enjinia inżynier</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いしゃ</japanese>
+      </field>
+      <field name='Meaning'>ISHA lekarz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かんごし</japanese>
+      </field>
+      <field name='Meaning'>KANGOSHI pielęgniarz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>べんごし</japanese>
+      </field>
+      <field name='Meaning'>BENGOSHI prawnik / adwokat</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>せんせい</japanese>
+      </field>
+      <field name='Meaning'>SENSEI nauczyciel</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>きょうし</japanese>
+      </field>
+      <field name='Meaning'>KYŌSHI nauczycielka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>がくせい</japanese>
+      </field>
+      <field name='Meaning'>GAKUSEI student / uczeń</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かいしゃいん</japanese>
+      </field>
+      <field name='Meaning'>KAISHAIN pracownik firmy</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>てんいん</japanese>
+      </field>
+      <field name='Meaning'>TENIN sprzedawca</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しゅふ</japanese>
+      </field>
+      <field name='Meaning'>SHUFU gospodyni domowa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>けいさつかん</japanese>
+      </field>
+      <field name='Meaning'>KEISATSUKAN policjant</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しょうぼうし</japanese>
+      </field>
+      <field name='Meaning'>SHŌBŌSHI strażak</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さっか</japanese>
+      </field>
+      <field name='Meaning'>SAAKA pisarz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はいゆう</japanese>
+      </field>
+      <field name='Meaning'>HAIYŪ aktor</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>じょゆう</japanese>
+      </field>
+      <field name='Meaning'>JOYŪ aktorka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かしゅ</japanese>
+      </field>
+      <field name='Meaning'>KASHU piosenkarz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>せいじか</japanese>
+      </field>
+      <field name='Meaning'>SEIJIKA polityk</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しょうがくせい</japanese>
+      </field>
+      <field name='Meaning'>SHŌGAKUSEI shougakusei uczeń szkoły podstawowej</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ちゅうがくせい</japanese>
+      </field>
+      <field name='Meaning'>CHŪGAKUSEI chuugakusei uczeń gimnazjum</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>こうこうせい</japanese>
+      </field>
+      <field name='Meaning'>KŌKŌSEI koukousei uczeń liceum</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>だいがくせい</japanese>
+      </field>
+      <field name='Meaning'>DAIGAKUSEI daigakusei student licencjacki</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>だいがくいんせい</japanese>
+      </field>
+      <field name='Meaning'>DAIGAKUINSEI daigakuinsei student magisterski / doktorancki</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>うえ</japanese>
+      </field>
+      <field name='Meaning'>ue na, ponad</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>した</japanese>
+      </field>
+      <field name='Meaning'>shita pod, poniżej</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>まえ</japanese>
+      </field>
+      <field name='Meaning'>mae przed</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>うしろ</japanese>
+      </field>
+      <field name='Meaning'>ushiro z tyłu, za</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>なか</japanese>
+      </field>
+      <field name='Meaning'>naka w środku</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>となり</japanese>
+      </field>
+      <field name='Meaning'>tonari obok</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>そば</japanese>
+      </field>
+      <field name='Meaning'>soba w pobliżu</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ちかく</japanese>
+      </field>
+      <field name='Meaning'>chikaku blisko</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あいだ</japanese>
+      </field>
+      <field name='Meaning'>aida pomiędzy</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>みぎがわ</japanese>
+      </field>
+      <field name='Meaning'>migi gawa po prawej stronie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ひだりがわ</japanese>
+      </field>
+      <field name='Meaning'>hidari gawa po lewej stronie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かぞく / ごかぞく</japanese>
+      </field>
+      <field name='Meaning'>(kazoku)/(go kazoku) rodzina</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>りょうしん / ごりょうしん</japanese>
+      </field>
+      <field name='Meaning'>(ryōshin)/(go ryōshin) rodzice</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はは / おかあさん</japanese>
+      </field>
+      <field name='Meaning'>(haha)/(okāsan) mama</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ちち / おとうさん</japanese>
+      </field>
+      <field name='Meaning'>(chichi)/(otōsan) tata</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>きょうだい / ごきょうだい</japanese>
+      </field>
+      <field name='Meaning'>(kyōdai)/(go kyōdai) rodzeństwo</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あに / おにいさん</japanese>
+      </field>
+      <field name='Meaning'>(ani)/(onīsan) starszy brat</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>あね / おねえさん</japanese>
+      </field>
+      <field name='Meaning'>(ane)/(onēsan) starsza siostra</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おとうと / おとうとさん</japanese>
+      </field>
+      <field name='Meaning'>(otōto)/(o tōtosan) młodszy brat</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いもうと / いもうとさん</japanese>
+      </field>
+      <field name='Meaning'>(imōto)/(imōtosan) młodsza siostra</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>そふぼ / ごそふぼ</japanese>
+      </field>
+      <field name='Meaning'>(sofubo)/(go sofubo) dziadkowie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>そふ / おじいさん</japanese>
+      </field>
+      <field name='Meaning'>(sofu)/(ojīsan) dziadek</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>そぼ / おばあさん</japanese>
+      </field>
+      <field name='Meaning'>(sobo)/(obāsan) babcia</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しんせき / ごしんせき</japanese>
+      </field>
+      <field name='Meaning'>(shinseki)/(go shinseki) krewny</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おじ / おじさん</japanese>
+      </field>
+      <field name='Meaning'>(oji)/(ojisan) wujek</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おば / おばさん</japanese>
+      </field>
+      <field name='Meaning'>(oba)/(obasan) ciotka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いとこ</japanese>
+      </field>
+      <field name='Meaning'>(itoko) kuzyn  / kuzynka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ぞう</japanese>
+      </field>
+      <field name='Meaning'>ZŌ słoń</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>だいがく</japanese>
+      </field>
+      <field name='Meaning'>DAIGAKU uniwersytet</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かぞく</japanese>
+      </field>
+      <field name='Meaning'>KAZOKU rodzina</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ちず</japanese>
+      </field>
+      <field name='Meaning'>CHIZU mapa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かじ</japanese>
+      </field>
+      <field name='Meaning'>KAJI pożar</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>けが</japanese>
+      </field>
+      <field name='Meaning'>KEGA rana</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ごご</japanese>
+      </field>
+      <field name='Meaning'>GOGO popołudnie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かぎ</japanese>
+      </field>
+      <field name='Meaning'>KAGI klucz</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かぜ</japanese>
+      </field>
+      <field name='Meaning'>KAZE wiatr / przeziębienie</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>えいご</japanese>
+      </field>
+      <field name='Meaning'>EIGO język angielski</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ぼうし</japanese>
+      </field>
+      <field name='Meaning'>BŌSHI kapelusz / czapka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ぶた</japanese>
+      </field>
+      <field name='Meaning'>BUTA świnia</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かばん</japanese>
+      </field>
+      <field name='Meaning'>KABAN torba</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>えんぴつ</japanese>
+      </field>
+      <field name='Meaning'>ENPITSU ołówek</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>れい</japanese>
+      </field>
+      <field name='Meaning'>(rei) 0</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いち</japanese>
+      </field>
+      <field name='Meaning'>(ichi) 1</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>に</japanese>
+      </field>
+      <field name='Meaning'>(ni) 2</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さん</japanese>
+      </field>
+      <field name='Meaning'>(san) 3</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>よん</japanese>
+      </field>
+      <field name='Meaning'>(yon) 4</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>し</japanese>
+      </field>
+      <field name='Meaning'>(shi) 4</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>よ</japanese>
+      </field>
+      <field name='Meaning'>(yo) 4</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ご</japanese>
+      </field>
+      <field name='Meaning'>(go) 5</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ろく</japanese>
+      </field>
+      <field name='Meaning'>(roku) 6</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>なな</japanese>
+      </field>
+      <field name='Meaning'>(nana) 7</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しち</japanese>
+      </field>
+      <field name='Meaning'>(shichi) 7</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はち</japanese>
+      </field>
+      <field name='Meaning'>(hachi) 8</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>きゅう</japanese>
+      </field>
+      <field name='Meaning'>(kyuu) 9</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>く</japanese>
+      </field>
+      <field name='Meaning'>(ku) 9</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>じゅう</japanese>
+      </field>
+      <field name='Meaning'>(juu) 10</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ひゃく</japanese>
+      </field>
+      <field name='Meaning'>(hyaku) 100</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さんびゃく</japanese>
+      </field>
+      <field name='Meaning'>(sanbyaku) 300</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ろっぴゃく</japanese>
+      </field>
+      <field name='Meaning'>(roppyaku) 600</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はっぴゃく</japanese>
+      </field>
+      <field name='Meaning'>(happyaku) 800</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>せん</japanese>
+      </field>
+      <field name='Meaning'>(sen) 1000</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>さんぜん</japanese>
+      </field>
+      <field name='Meaning'>(sanzen) 3000</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はっせん</japanese>
+      </field>
+      <field name='Meaning'>(hassen) 8000</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>いちまん</japanese>
+      </field>
+      <field name='Meaning'>(ichiman) 10000</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ほん</japanese>
+      </field>
+      <field name='Meaning'>HON Książka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>パン</japanese>
+      </field>
+      <field name='Meaning'>PAN Chleb/Pieczywo</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>くつ</japanese>
+      </field>
+      <field name='Meaning'>KUTSU Buty</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>みず</japanese>
+      </field>
+      <field name='Meaning'>MIZU Woda</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>バス</japanese>
+      </field>
+      <field name='Meaning'>BASU Bus</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>おちゃ</japanese>
+      </field>
+      <field name='Meaning'>OCHA Herbata</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>りんご</japanese>
+      </field>
+      <field name='Meaning'>RINGO Jabłko</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>めがね</japanese>
+      </field>
+      <field name='Meaning'>MEGANE Okulary</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>テレビ</japanese>
+      </field>
+      <field name='Meaning'>TEREBI Telewizja</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>バイク</japanese>
+      </field>
+      <field name='Meaning'>BAIKU Motocykl</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>でんしゃ</japanese>
+      </field>
+      <field name='Meaning'>DENSHA Pociąg</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>パソコン</japanese>
+      </field>
+      <field name='Meaning'>PASOKON Komputer(Laptop)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>コーヒー</japanese>
+      </field>
+      <field name='Meaning'>KŌHĪ Kawa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>じてんしゃ</japanese>
+      </field>
+      <field name='Meaning'>JITENSHA Rower</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>つくえ</japanese>
+      </field>
+      <field name='Meaning'>TSUKUE Biurko</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>カメラ</japanese>
+      </field>
+      <field name='Meaning'>KAMERA Aparat</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しゃしん</japanese>
+      </field>
+      <field name='Meaning'>SHASHIN Zdjęcia</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ノート</japanese>
+      </field>
+      <field name='Meaning'>NŌTO Notatnik</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>き</japanese>
+      </field>
+      <field name='Meaning'>KI Drzewo</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>でんわ</japanese>
+      </field>
+      <field name='Meaning'>DENWA Telefon</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>うち</japanese>
+      </field>
+      <field name='Meaning'>UCHI Dom</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>えいがかん</japanese>
+      </field>
+      <field name='Meaning'>EIGAKAN Kino</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>がっこう</japanese>
+      </field>
+      <field name='Meaning'>GAKKŌ Szkoła</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>えき</japanese>
+      </field>
+      <field name='Meaning'>EKI Stacja Kolejowa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ほんや</japanese>
+      </field>
+      <field name='Meaning'>HON'YA Księgarnia</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>スイミング・プール</japanese>
+      </field>
+      <field name='Meaning'>(SUIMINGU) PŪRU Basen</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>きょうかい</japanese>
+      </field>
+      <field name='Meaning'>KYŌKAI Kościół</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>こうえん</japanese>
+      </field>
+      <field name='Meaning'>KŌEN Park</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かいしゃ</japanese>
+      </field>
+      <field name='Meaning'>KAISHA Firma</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>レストラン</japanese>
+      </field>
+      <field name='Meaning'>RESUTORAN Restauracja</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>スーパー</japanese>
+      </field>
+      <field name='Meaning'>SŪPĀ Supermarket</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ゆうびんきょく</japanese>
+      </field>
+      <field name='Meaning'>YŪBINKYOKU Poczta</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ホテル</japanese>
+      </field>
+      <field name='Meaning'>HOTERU Hotel</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>びょういん</japanese>
+      </field>
+      <field name='Meaning'>BYŌIN Szpital</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>びよういん</japanese>
+      </field>
+      <field name='Meaning'>BIYŌIN Fryzjer</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>とこや</japanese>
+      </field>
+      <field name='Meaning'>TOKOYA Barber</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ちゅうしゃじょう</japanese>
+      </field>
+      <field name='Meaning'>CHŪSHAJŌ Parking</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>じどうはんばいき</japanese>
+      </field>
+      <field name='Meaning'>JIDŌHANBAIKI Automat z przekąskami</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ぎんこう</japanese>
+      </field>
+      <field name='Meaning'>GINKŌ Bank</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>としょかん</japanese>
+      </field>
+      <field name='Meaning'>TOSHOKAN Biblioteka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はくぶつかん</japanese>
+      </field>
+      <field name='Meaning'>HAKUBUTSUKAN Muzeum</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>びじゅつかん</japanese>
+      </field>
+      <field name='Meaning'>BIJUTSUKAN Galeria sztuki</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>こうじょう</japanese>
+      </field>
+      <field name='Meaning'>KŌJŌ Fabryka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>どうぶつえん</japanese>
+      </field>
+      <field name='Meaning'>DŌBUTSUEN Zoo</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>きっさてん</japanese>
+      </field>
+      <field name='Meaning'>KISSATEN Kawiarnia</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>城 | しろ</japanese>
+      </field>
+      <field name='Meaning'>SHIRO Zamek</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>くうこう</japanese>
+      </field>
+      <field name='Meaning'>KŪKŌ Lotnisko</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>げきじょう</japanese>
+      </field>
+      <field name='Meaning'>GEKIJŌ Teatr</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>くすりや</japanese>
+      </field>
+      <field name='Meaning'>KUSURIYA Apteka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>てら</japanese>
+      </field>
+      <field name='Meaning'>TERA Świątynia buddyjska</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>じんじゃ</japanese>
+      </field>
+      <field name='Meaning'>JINJA Świątynia szintoistyczna</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>はなや</japanese>
+      </field>
+      <field name='Meaning'>HANAYA Kwiaciarnia</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>ショッピングモール</japanese>
+      </field>
+      <field name='Meaning'>SHOPPINGU MŌRU Galeria Handlowa</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>わに</japanese>
+      </field>
+      <field name='Meaning'>WANI Krokodyl</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>にわ</japanese>
+      </field>
+      <field name='Meaning'>NIWA Ogródek (domowy)</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>かわ</japanese>
+      </field>
+      <field name='Meaning'>KAWA Rzeka</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>しんぶん</japanese>
+      </field>
+      <field name='Meaning'>SHINBUN Gazeta</field>
+    </card>
+    <card>
+      <field name='Japanese'>
+        <japanese>みずをください。</japanese>
+      </field>
+      <field name='Meaning'>MIZU O KUDASAI Poproszę wodę.</field>
+    </card>
+  </cards>
+</deck>
